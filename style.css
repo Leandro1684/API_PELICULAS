@@ -1,0 +1,10 @@
+#contenido {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+
+#cardpeli {
+    margin: 0 auto;
+}
